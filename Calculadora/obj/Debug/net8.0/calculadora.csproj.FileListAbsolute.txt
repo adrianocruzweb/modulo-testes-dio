@@ -1,0 +1,14 @@
+D:\dio\modulo-testes-dio\Calculadora\bin\Debug\net8.0\calculadora.exe
+D:\dio\modulo-testes-dio\Calculadora\bin\Debug\net8.0\calculadora.deps.json
+D:\dio\modulo-testes-dio\Calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+D:\dio\modulo-testes-dio\Calculadora\bin\Debug\net8.0\calculadora.dll
+D:\dio\modulo-testes-dio\Calculadora\bin\Debug\net8.0\calculadora.pdb
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\calculadora.dll
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\refint\calculadora.dll
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\calculadora.pdb
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+D:\dio\modulo-testes-dio\Calculadora\obj\Debug\net8.0\ref\calculadora.dll
